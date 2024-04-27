@@ -1,0 +1,13 @@
+.header{
+    width: 100;
+    height: 100px;
+    background-color: #18b6f4; /*zima blue form death love robot*/
+}
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: beige;
+    padding: 15px 10px;
+
+}
