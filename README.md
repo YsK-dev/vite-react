@@ -1,6 +1,6 @@
 
 # My Gallery
-Foobar is a Python library for dealing with word pluralization.
+Basic implementation of gallery with react
 
 ## Installation
 
